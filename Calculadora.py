@@ -8,7 +8,7 @@ mult = numero1 * numero2
 if numero2 != 0:
     div = numero1 / numero2 
 
-print("A soma do",numero1,"mais o",numero2,"deu",soma)
-print("A sub do",numero1,"menos o",numero2,"deu",sub)
-print("A mult do",numero1,"vezes o",numero2,"deu",mult) 
-print("A div do",numero1,"dividido por",numero2,"deu",div)
+print(numero1,"+",numero2,"=",soma)
+print(numero1,"-",numero2,"=",sub)
+print(numero1,"*",numero2,"=",mult) 
+print(numero1,"/",numero2,"=",div) 
